@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title><?= htmlspecialchars($data['name']) ?> :: CV_RECORD</title>
+    <title><?= htmlspecialchars($data['name']) ?> : CV_RECORD</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani:wght@300;400;500;600&display=swap" rel="stylesheet">
 
